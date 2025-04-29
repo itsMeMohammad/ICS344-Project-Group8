@@ -1,3 +1,3 @@
 # Service Selection
-Chosen Service: SMB
-why? because SMB has known vulnerabilities (like MS17-010 EternalBlue), ideal for Metasploit and scripting attacks
+Chosen Service: SSH
+Why? Because SSH on Metasploitable3 has known vulnerabilities (weak credentials, accessible via port 22), that make it ideal for Metasploit and scripting attack
